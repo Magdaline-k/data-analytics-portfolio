@@ -1,5 +1,11 @@
+🚀 Welcome to my Data Analytics Portfolio!
+This portfolio showcases my hands-on experience in **data analysis and visualization**. 
+I specialize in transforming raw data into meaningful insights using **Power BI, Excel, and SQL**. 
+Here, you'll find my latest projects, where I analyze sales trends, business performance, and more.
+
 # data-analytics-portfolio
 A showcase of data analysis and power bi dashboards
+
 ## 📊 Projects  
 
 ### 1️⃣ Robbin Company Sales Analysis  
