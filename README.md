@@ -4,7 +4,7 @@ I specialize in transforming raw data into meaningful insights using **Power BI,
 Here, you'll find my latest projects, where I analyze sales trends, business performance, and more.
 
 # data-analytics-portfolio
-A showcase of data analysis and power bi dashboards
+A showcase of data analysis and Power BI dashboards
 
 ## 📊 Projects  
 
